@@ -242,9 +242,11 @@ body {
 
     #logo {
       width: 100%;
+      background: black;
     }
     nav {
       width: 100%;
+      text-align: center;
     }
 
     .container {
