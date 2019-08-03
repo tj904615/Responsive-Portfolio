@@ -237,3 +237,17 @@ body {
       padding: 20px;
     }
   }
+
+  @media screen and (max-width: 640px){
+
+
+
+    .container {
+      position: static;
+    }
+
+    #main-container {
+      width: 90%;
+      padding: 25px;
+    }
+  }
